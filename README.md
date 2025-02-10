@@ -1,4 +1,4 @@
-# ecommerce_machinetest
+# ECommerce App
 
 A new Flutter project.
 
